@@ -17,5 +17,4 @@ This is a beginner-friendly machine learning project that uses a **Decision Tree
 
 ---
 
-## 📁 Project Structure
 
