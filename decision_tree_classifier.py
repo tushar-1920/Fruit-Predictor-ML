@@ -8,3 +8,4 @@ labels = ['apple','apple','apple','orange','orange']
 clf = DecisionTreeClassifier()
 clf = clf.fit(features,labels)
 clf.predict([[150,1],[100,0]]) # Fill your own values here to know the answer!!!!
+# the code here hass an 2 errors
